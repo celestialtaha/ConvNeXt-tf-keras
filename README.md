@@ -21,7 +21,7 @@ print(model.summary())
 # References
 Paper:
 
-[1]  ![https://arxiv.org/abs/2201.03545](A ConvNet for the 2020s)
+[1] [A ConvNet for the 2020s](https://arxiv.org/abs/2201.03545)
 
 Code:
 
