@@ -4,7 +4,7 @@ tf-keras re-implementation of ConvNeXt [1] from Facebook Research.
 # Usage
 There are two ways one can use this implementation:
   * Notebook (.ipynb)
-  * .py file with support for args
+  * .py file
 
 # References
 Paper:
