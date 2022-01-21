@@ -1,6 +1,6 @@
 # ConvNeXt-tf-keras
 tf-keras re-implementation of ConvNeXt [1] from Facebook Research.
-
+![Screenshot](ResNet_vs_ConvNeXt.png)
 # Usage
 There are two ways one can use this implementation:
   * Notebook (.ipynb)
@@ -18,7 +18,7 @@ print(model.summary())
 # References
 Paper:
 
-[1] [https://arxiv.org/abs/2201.03545](A ConvNet for the 2020s)
+[1]  [https://arxiv.org/abs/2201.03545](A ConvNet for the 2020s)
 
 Code:
 
