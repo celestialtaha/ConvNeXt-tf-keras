@@ -16,6 +16,9 @@ from main import create_convnext_model
 
 model = create_convnext_model(input_shape=(224, 224, 3), depths=[3, 3, 9, 3], dims=[96, 192, 384, 768], num_classes=1000)
 print(model.summary())
+
+model = create_convnext_model(depths=[3, 3, 9, 3], dims=[96, 192, 384, 768], num_classes=1000, drop_path=2., layer_scale_init_value=1e-6)
+print(model.summary())
 ```
 
 # References
